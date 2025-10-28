@@ -3,7 +3,8 @@
 A **2D pixel platformer** game inspired by classic Mario-style adventures, created with **Unity** and **C#**.  
 You play as a little hero jumping across platforms, collecting fruits, and avoiding fiery traps!
 
-![Gameplay Screenshot](Screenshot%20(17).png)
+<img width="1915" height="1081" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/7aa46c0f-eb0d-41d7-9509-94fc72bd0435" />
+
 
 ---
 
